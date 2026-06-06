@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im working on (RebornMC)[https://rebornmc.fr], a Minecraft server in 1.21.8.<br>
+Im working on [RebornMC](https://rebornmc.fr), a Minecraft server in 1.21.8.<br>
 
 
 # 💻 Tech Stack:
