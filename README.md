@@ -1,15 +1,182 @@
-# 💫 About Me:
-Im working on [RebornMC](https://rebornmc.fr), a Minecraft server in 1.21.8.<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0d1117%2C45%3A1f6feb%2C100%3A58a6ff&height=104&section=header&animation=fadeIn" alt="Profile header" width="100%" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=LeVraiMattokDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=LeVraiMattokDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LeVraiMattokDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+<div align="center">
+
+<h1>Hi, I’m Mathys Cerdeira 👋</h1>
+
+<p><strong>Développeur FullStack Suisse. École de commerce</strong></p>
+
+<p>Je construis des apps durant mon temps libre, souvent en écoutant de la musique et avec mon BFF Claude.</p>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/LeVraiMattokDev?tab=followers"><img src="https://img.shields.io/github/followers/LeVraiMattokDev?style=flat&logo=github&label=Followers&color=58a6ff" alt="GitHub followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=LeVraiMattokDev&style=flat&label=Profile%20views&color=58a6ff" alt="Profile views" />
+
+</div>
+
+## About me
+
+- 💼 **Working as:** CEO @ RebornMC
+- 📍 **Based in:** Suisse
+
+## Tech stack
+
+### Languages
+
+<p><img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/python" alt="Python" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/openjdk" alt="Java" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/rust" alt="Rust" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/kotlin" alt="Kotlin" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/lua" alt="Lua" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/gnubash" alt="Bash" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/powershell" alt="PowerShell" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="38" height="38" /></p>
+
+### Frontend
+
+<p><img src="https://cdn.simpleicons.org/react" alt="React" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="38" height="38" /></p>
+
+### Backend
+
+<p><img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/express" alt="Express" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/prisma" alt="Prisma" width="38" height="38" /></p>
+
+### Databases
+
+<p><img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/mariadb" alt="MariaDB" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/sqlite" alt="SQLite" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/redis" alt="Redis" width="38" height="38" /></p>
+
+### DevOps & Cloud
+
+<p><img src="https://cdn.simpleicons.org/docker" alt="Docker" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/nginx" alt="Nginx" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/cloudflare" alt="Cloudflare" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/ovh" alt="OVHcloud" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/proxmox" alt="Proxmox" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/vercel" alt="Vercel" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/linux" alt="Linux" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/debian" alt="Debian" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/archlinux" alt="Arch Linux" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/windows11" alt="Windows" width="38" height="38" /></p>
+
+### Data & AI
+
+<p><img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/anthropic" alt="Anthropic" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="38" height="38" /></p>
+
+### Tools & IDEs
+
+<p><img src="https://cdn.simpleicons.org/git" alt="Git" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/github" alt="GitHub" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/visualstudiocode" alt="Visual Studio Code" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/intellijidea" alt="IntelliJ IDEA" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/eclipseide" alt="Eclipse" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/npm" alt="npm" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/composer" alt="Composer" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/filezilla" alt="FileZilla" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/obsidian" alt="Obsidian" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/discord" alt="Discord" width="38" height="38" /></p>
+
+### Design & Creative
+
+<p><img src="https://cdn.simpleicons.org/godotengine" alt="Godot" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/aseprite" alt="Aseprite" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/unity" alt="Unity" width="38" height="38" /></p>
+
+### Platforms & CMS
+
+<p><img src="https://cdn.simpleicons.org/homeassistant" alt="Home Assistant" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/minecraft" alt="Minecraft" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/arduino" alt="Arduino" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/raspberrypi" alt="Raspberry Pi" width="38" height="38" /></p>
+
+### Web3 & Security
+
+<p><img src="https://cdn.simpleicons.org/bitwarden" alt="Bitwarden" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/tailscale" alt="Tailscale" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/wireguard" alt="WireGuard" width="38" height="38" />
+<img src="https://cdn.simpleicons.org/openvpn" alt="OpenVPN" width="38" height="38" /></p>
+
+## Featured projects
+
+### RebornMC
+
+Mon serveur Minecraft Java & Bedrock 1.21.8.
+
+<img src="https://img.shields.io/badge/JavaScript--161b22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Java--161b22?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Markdown--161b22?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" /> <img src="https://img.shields.io/badge/Vue.js--161b22?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" /> <img src="https://img.shields.io/badge/PostgreSQL--161b22?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Supabase--161b22?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+
+[Site internet](https://rebornmc.fr)
 
 ---
-[![](https://komarev.com/ghpvc/?username=LeVraiMattokDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### PinStudio
+
+Mon studio de développement indépendant
+
+
+
+[Site internet](https://pinstudio.mattok.ch)
+
+---
+
+### TokRouter
+
+Une plateforme pour unifier les abonnements IA en 1 seul.
+
+
+
+[Site internet](https://tokrouter.mattok.ch)
+
+---
+
+### PinCloud
+
+Mon hébergeur Suisse.
+
+
+
+[Site internet](https://pincloud.ch)
+
+## Let’s connect
+
+<div align="center">
+
+<a href="mailto:contact@mattok.ch"><img src="https://img.shields.io/badge/Email-Contact-58a6ff?style=flat&logo=gmail&logoColor=white" alt="Email Contact" /></a>
+<a href="https://rebornmc.fr"><img src="https://img.shields.io/badge/Website-Visit-58a6ff?style=flat&logo=firefoxbrowser&logoColor=white" alt="Website Visit" /></a>
+
+</div>
+
+<div align="center">
+
+<sub>Thanks for visiting my profile.</sub>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0d1117%2C45%3A1f6feb%2C100%3A58a6ff&height=80&section=footer&animation=fadeIn" alt="Profile footer" width="100%" />
+
+</div>
